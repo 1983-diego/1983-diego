@@ -6,7 +6,7 @@ pela CUBOS ACADEMY desde 2022 e estudo Python de forma auto-didata nas horas vag
 
 Alguns de meus repositórios, tanto de exercícios quanto de projetos, estão privados, pois pertencem à terceiros. No entanto, é possível acessar os demais repositórios em aberto, lá eu posto alguns projetos e estou sempre inserindo coisas novas.
 
-Para me contactar no linkedin <a href='https://www.linkedin.com/in/diego-passos-dos-santos' <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin-logo'/>
+Para me contactar no linkedin <a href='https://www.linkedin.com/in/diego-passos-dos-santos' <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin-logo'/> /a>
 email:
 :mailbox: diego.passos.santos@gmail.com
 
