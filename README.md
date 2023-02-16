@@ -10,3 +10,4 @@ Para me contactar no linkedin (https://www.linkedin.com/in/diego-passos-dos-sant
 email:
 :mailbox: diego.passos.santos@gmail.com
 
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=1983-diego&show_icons=true&theme=radical)
