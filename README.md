@@ -11,7 +11,8 @@ I have built some back-end projects with nodejs and PostgreSQL with several libr
 <br>
 I've begun my journey in front-end development with HTML, CSS and React with @rodolfomori (https://github.com/rodolfomori) from DevClub:
 <br>
-- A money convert using fectch to consume datas from awesome API and show the convertion from brazilian currency to USD, EUR and Bitcoin (https://github.com/1983-diego/money-converter).
+- A money convert using fectch to consume datas from awesome API and show the convertion from brazilian currency to USD, EUR and Bitcoin (https://github.com/1983-diego/money-converter);
+- 
 
 <br>
 <br>
