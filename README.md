@@ -4,6 +4,7 @@ My name is Diego and I am
 **BACK-END SOFTWARE ENGINEER** under development | JavaScript | Node.js | Data Base | SQL | PostgreSQL | API REST | HTML | CSS
 at [Cubos Academy](https://cubos.academy/) since 2022. 
 <br>
+<br>
 You can check my projects out in my pinned area below.
 <br>
 <br>
