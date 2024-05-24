@@ -11,7 +11,7 @@ I have built some **BACK-END** projects with nodejs and PostgreSQL with several 
 - An API REST to register financial transactions oporations with data bank postgreSQL (https://github.com/1983-diego/desafio-modulo-3-dindin).
 <br> 
 
-I've begun my journey in **FRONT-END** development with HTML, CSS and React with @rodolfomori (https://github.com/rodolfomori) from DevClub:
+I've begun my journey in **FRONT-END** development with HTML, CSS and React.
 <br>
 <br>
 - A money convert using fectch to consume datas from awesome API and show the convertion from brazilian currency to USD, EUR and Bitcoin (https://github.com/1983-diego/money-converter).
